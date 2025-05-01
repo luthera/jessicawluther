@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jessica W. Luther
+name: Dr. Jessica W. Luther
 avatar_image: "headshot-2.jpg"
 avatar_annotation: "Photo by: Michael T. Davis"
 # Username (this should match the folder name)
@@ -15,7 +15,7 @@ authors:
 superuser: true
 
 # Role/position
-# role: Investigative Journalist, Author, Podcaster
+# role: Investigative Journalist, Author, Sports Historian, Podcaster
 
 # Organizations/Affiliations
 # organizations:
@@ -41,9 +41,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: bluesky
   icon_pack: fab
-  link: https://twitter.com/jessicawluther
+  link: https://bsky.app/profile/jessicawluther.com
 - icon: instagram
   icon_pack: fab
   link: https://instagram.com/jessicawluther
@@ -70,7 +70,7 @@ email: ""
 # user_groups: []
 ---
 
-is an investigative journalist, author, and podcaster.
+is an investigative journalist, author, sports historian, and podcaster.
 
 She has written extensively on the intersection of sports and gendered violence. Her work has appeared in ESPN Magazine, New York Times Magazine, the Texas Observer, Austin Woman, and Bitch Magazine. She has published pieces at Sports Illustrated, BuzzFeed, Texas Monthly, and Vice Sports, among others. For the extent of Huffington Post‘s opinion vertical, she wrote a biweekly column on sports and culture.
 
@@ -80,8 +80,8 @@ She is the author of two books. Her book is titled [Unsportsmanlike Conduct: Co
 
 Her second book, which she co-authored with Kavitha Davidson, is titled [Loving Sports When They Don’t Love You Back: Dilemmas of the Modern Sports Fan](https://utpress.utexas.edu/books/luther-davidson-loving-sports-when-they-don%27t-love-you-back) (published by University of Texas Press in September 2020). From a [Kirkus starred review](https://www.kirkusreviews.com/book-reviews/jessica-luther/loving-sports-when-they-dont-love-you-back/): “With illuminating interviews and commentary by insiders from the sports community, an appealing pace, and elegant writing, this is a sports book that should interest not just sports fans, but anyone interested in politics, business, or society at large.”
 
-Since 2018, Jessica has co-hosted a weekly feminist sports podcast titled [Burn It All Down](https://www.burnitalldownpod.com/). Each week, the hosts bring an intersectional feminist lens to the biggest stories in sports, toss the most abominable people in athletics on the proverbial Burn Pile, celebrate some of the torchbearers leading the way in sports, and interview some of the most influential figures in the game. Subscribe and listen on: [Apple](https://podcasts.apple.com/us/podcast/burn-it-all-down/id1235386795?mt=2), [Spotify](https://open.spotify.com/show/0yQs1F78LcjPWDPPSS3MPH), [Stitcher](https://www.stitcher.com/show/burn-it-all-down), [TuneIn](http://tunein.com/radio/Burn-It-All-Down-p998965/), or wherever you listen to podcasts.
+Jessica successfully completed and defended her dissertation in the [Physical Culture and Sports Studies](https://education.utexas.edu/departments/kinesiology-health-education/graduate-programs/physical-culture-sport-studies) in the College of Education at the University of Texas in the Spring of 2025. Under the direction of Dr. Jan Todd, she wrote a dissertation titled “Desexigration and Desegregation: Gender, Race, and Women’s Basketball at the University of Texas in the 1970s.” It examines the ways in which the University of Texas addressed gender and racial discrimination following the passage of major civil rights legislation and during the early years of the women’s intercollegiate athletics department. Desegregation efforts demanded that marginalized people assimilate into the white populace while desexigration efforts required separation and isolation for female athletes from the larger men’s athletics infrastructure. In athletics specifically, the intense fight to carve out and maintain any space for women caused many administrators and coaches, who were often white, to focus solely on gender discrimination with little concern for the impact of race. Using a robust number of sources to tell the story of the beginning of women’s athletics at UT and the first seasons of intercollegiate play for the women’s basketball team, Luther’s dissertation has a familiar narrative of women athletes triumphing against the odds and in spaces that were not built for them, but also one less studied, of how complicated the story becomes when race is taken seriously in conjunction with gender and Title IX. The women’s basketball team at the University of Texas in the 1970s is a microcosm of many of the ways that women’s sports have succeeded and failed. It is, in short, the story of women’s sports. She wrote about part of her research for [Global Sport Matters in Nov 2021](https://globalsportmatters.com/culture/2021/11/16/rodney-page-inequities-womens-basketball-university-of-texas/).
+
+From 2018 to 2022, Jessica co-hosted a weekly feminist sports podcast titled [Burn It All Down](https://www.burnitalldownpod.com/). Each week, the hosts brought an intersectional feminist lens to the biggest stories in sports, tossed the most abominable people in athletics on the proverbial Burn Pile, celebrated some of the torchbearers leading the way in sports, and interviewed some of the most influential figures in the game. BIAD still sporadically records live shows and has an extensive back catalogue. Subscribe and listen on: [Apple](https://podcasts.apple.com/us/podcast/burn-it-all-down/id1235386795?mt=2), [Spotify](https://open.spotify.com/show/0yQs1F78LcjPWDPPSS3MPH), [Stitcher](https://www.stitcher.com/show/burn-it-all-down), [TuneIn](http://tunein.com/radio/Burn-It-All-Down-p998965/), or wherever you listen to podcasts.
 
 She was the story editor for the third season of the [American Prodigies](https://podcasts.apple.com/us/podcast/american-prodigies/id1534964872) podcast, which tells the story of how Black girls moved from the margins of US gymnastics to its core. It features the voices and stories of trailblazers and viral sensations, coaches and mentors and trainers, journalists and academics, and the athletes themselves.
-
-Jessica is also a PhD candidate in [Physical Culture and Sports Studies](https://education.utexas.edu/departments/kinesiology-health-education/graduate-programs/physical-culture-sport-studies) in the College of Education at the University of Texas. Under the direction of Dr. Jan Todd, she is working on a dissertation about the University of Texas women's basketball team in the 1970s, focusing on Title IX, race, and gender. She wrote about part of her research for [Global Sport Matters in Nov 2021](https://globalsportmatters.com/culture/2021/11/16/rodney-page-inequities-womens-basketball-university-of-texas/).

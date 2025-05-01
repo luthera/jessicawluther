@@ -20,4 +20,4 @@ email_form = 1
 
 +++
 
-I am currently working on my doctoral dissertation so it will take me longer than usual to respond to inquiries. If you are contacting me about a media hit or a possible writing assignment that needs to be turned around in the next 72 hours, please assume that I will be unavailable. Thank you.
+I recently finished my doctoral dissertation and am taking some time to rest and reset. It will most likely take me longer than usual to respond to inquiries. If you are contacting me about a media hit or a possible writing assignment that needs to be turned around in the next 72 hours, please assume that I will be unavailable. Anything more long-term will be considered on a case-by-case basis. Thank you.

@@ -43,5 +43,6 @@ hero_annotation = "Photo by: Janelle Renee Matous"
   label = "Contact me"
 
 +++
-# **Jessica W. Luther**
-## **Investigative Journalist**, **Author**, and **Podcaster**
+# **Dr. Jessica W. Luther**
+## **Investigative Journalist**, **Author**,
+## **Sports Historian**, and **Podcaster**
