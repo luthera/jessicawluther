@@ -1,0 +1,22 @@
+/* Light mode body background — off-white to match gallery pages */
+body {
+    background-color: #eee8e3;
+}
+
+/* Override light mode home section backgrounds */
+.home-section {
+    background-color: #eee8e3 !important;
+}
+
+.home-section:nth-of-type(even) {
+    background-color: #e8e1db !important;
+}
+
+/* Keep dark mode as-is */
+.dark .home-section {
+    background-color: hsla(231, 15%, 18%, 1) !important;
+}
+
+.dark .home-section:nth-of-type(even) {
+    background-color: hsla(231, 15%, 16%, 1) !important;
+}
