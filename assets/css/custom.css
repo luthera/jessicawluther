@@ -1,3 +1,27 @@
+/* Playfair Display font for headings across the site */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* Hero widget — "Dr. Jessica W. Luther" heading */
+.wg-hero h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Know More page — name heading */
+.about-wrap .portrait-title h2 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Contact section heading */
+.contact-widget .section-heading h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
 /* Light mode body background — off-white to match gallery pages */
 body {
     background-color: #eee8e3;
