@@ -9,7 +9,7 @@ title: "Audio"
 <h2 class="section-title">Podcasts</h2>
 
 <div class="audio-item">
-  <img class="audio-img" src="/img/gallery/biad-logo.jpg" alt="Burn It All Down">
+  <a href="https://www.burnitalldown.com"><img class="audio-img" src="/img/gallery/biad-logo.jpg" alt="Burn It All Down"></a>
   <div class="audio-info">
     <h3>Burn It All Down</h3>
     <p>Burn It All Down is a feminist sports podcast on which Jessica is a co-host. Each week, the hosts break down the biggest stories in sports through the lens of gender, power, and justice. Covering everything from the NCAA to the Olympics, with reporting, interviews, and sharp commentary.</p>

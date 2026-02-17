@@ -20,4 +20,4 @@ email_form = 1
 
 +++
 
-I recently finished my doctoral dissertation and am taking some time to rest and reset. It will most likely take me longer than usual to respond to inquiries. If you are contacting me about a media hit or a possible writing assignment that needs to be turned around in the next 72 hours, please assume that I will be unavailable. Anything more long-term will be considered on a case-by-case basis. Thank you.
+Hello! Please get in touch if you have tips for stories, are interested in hiring Jessica to write, want to book her for a speaking gig, would to like to interview her, are looking for someone to speak to your high school or college class, or want to share your favorite cookie or cake recipe. Thank you.
