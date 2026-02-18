@@ -157,6 +157,17 @@ title: "Writing"
     </div>
   </div>
 
+  <div class="essay-card">
+    <a href="https://web.archive.org/web/20190410145619/https://splinternews.com/in-academia-professors-coming-onto-you-is-on-the-sylla-1826669829">
+      <img src="/img/gallery/splinter.jpg" alt="In Academia, Professors Coming On to You Is on the Syllabus’">
+    </a>
+    <h4><a href="https://web.archive.org/web/20190410145619/https://splinternews.com/in-academia-professors-coming-onto-you-is-on-the-sylla-1826669829">In Academia, Professors Coming On to You Is on the Syllabus</a></h4>
+    <div class="meta">Splinter, 2018</div>
+    <div class="listen-links">
+      <a href="/pdf/Luther_and_Solomon--In_Academia-Splinter.pdf">PDF</a>
+    </div>
+  </div>
+
 <div class="essay-card">
     <a href="https://www.complex.com/sports/a/scatx/skylar-diggins-smith-wnba-here-to-win">
       <img src="/img/gallery/complex-skylar.jpg" alt="Skylar Diggins-Smith Wants the WNBA to Win: ‘You Can't Be What You Can't See’">
