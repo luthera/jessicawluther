@@ -22,7 +22,7 @@ title: "Audio"
 </div>
 
 <div class="audio-item">
-  <img class="audio-img" src="/img/gallery/american-prodigies.png" alt="American Prodigies">
+  <img class="audio-img" src="/img/gallery/american-prodigies.jpg" alt="American Prodigies">
   <div class="audio-info">
     <h3>American Prodigies</h3>
     <p>American Prodigies (season 3 on the American Prodigy feed), for which Jessica was a story editor, tells the story of how Black girls and women in gymnastics went from the margins of the sport to the center. For decades, Black girlhood and the sport of gymnastics have been fundamentally incompatible. But today’s generation of elite Black gymnasts is trying to change that—to build spaces that arm them in a sport that they love—as competitors, coaches, judges, and performers. American Prodigies explores the cultural transformation of women’s artistic gymnastics by looking at the careers of Black gymnasts, from trailblazers to superstars, to the names you don’t even know... yet.</p>
