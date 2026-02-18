@@ -70,6 +70,7 @@
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+    margin-top: 0;
     margin-bottom: 12px;
     color: #1b2a4a;
 }
@@ -228,6 +229,7 @@
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+    margin-top: 0;
     margin-bottom: 12px;
     color: #1b2a4a;
 }
