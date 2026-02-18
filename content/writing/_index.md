@@ -34,7 +34,7 @@ title: "Writing"
   <img class="book-img" src="/img/gallery/diss-cover2.jpg" alt="Desexegration and Desegregation">
   <div class="book-info">
     <h3>Desexigration and Desegration</h3>
-    <p>Luther’s dissertation has a familiar narrative of women athletes triumphing against the odds and in spaces that were not built for them, but also one less studied, of how complicated the story becomes when race is taken seriously in conjunction with gender and Title IX. The women’s basketball team at the University of Texas in the 1970s is a microcosm of many of the ways that women’s sports have succeeded and failed. It is, in short, the story of women’s sports. "Desexigration and Desegration: Gender, Race, and Women's Basketball at the University of Texas in the 1970s" was completed in 2025 under the direction of Dr. Janice Todd at the University of Texas.</p>
+    <p>"Desexigration and Desegration: Gender, Race, and Women's Basketball at the University of Texas in the 1970s" was completed in 2025 under the direction of Dr. Janice Todd at the University of Texas. Luther’s dissertation has a familiar narrative of women athletes triumphing against the odds and in spaces that were not built for them, but also one less studied, of how complicated the story becomes when race is taken seriously in conjunction with gender and Title IX. The women’s basketball team at the University of Texas in the 1970s is a microcosm of many of the ways that women’s sports have succeeded and failed. It is, in short, the story of women’s sports.</p>
     <div class="listen-links">
       <a href="/pdf/Luther--Desexigration_and_Desegration_Intro_and_Conclusion.pdf">PDF of abstract, introduction, and conclusion</a>
     </div>
