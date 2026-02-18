@@ -18,7 +18,7 @@ hero_annotation = "Photo by: Janelle Renee Matous"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#fff"
+  color = "#eee8e3"
   
   # Background gradient.
   # gradient_start = "#4bb4e3"
