@@ -12,7 +12,7 @@ title: "Audio"
   <a href="https://www.burnitalldownpod.com"><img class="audio-img" src="/img/gallery/biad-logo.jpg" alt="Burn It All Down"></a>
   <div class="audio-info">
     <h3>Burn It All Down</h3>
-    <p>Burn It All Down is a feminist sports podcast on which Jessica is a co-host. Each week, the hosts break down the biggest stories in sports through the lens of gender, power, and justice. Covering everything from the NCAA to the Olympics, with reporting, interviews, and sharp commentary.</p>
+    <p>Burn It All Down is a feminist sports podcast on which Jessica is a co-host. The show brings an intersectional feminist lens to the biggest stories in sports, criticizes the most abominable people in athletics by throwing them on the proverbial Burn Pile, celebrates some of the torchbearers leading the way, and includes interviews with some of the most influential figures in the game.</p>
     <div class="listen-links">
       <span>LISTEN ON:</span>
       <a href="https://podcasts.apple.com/us/podcast/burn-it-all-down/id1235386795">Apple</a><span class="sep">|</span>
