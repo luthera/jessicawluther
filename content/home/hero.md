@@ -36,7 +36,7 @@ hero_annotation = "Photo by: Janelle Renee Matous"
 #   Remove a link/note by deleting a cta/note block.
 [btn]
   url = "/authors/admin"
-  label = "Know more"
+  label = "About"
   
 [btn_alt]
   url = "#contact"
@@ -44,5 +44,7 @@ hero_annotation = "Photo by: Janelle Renee Matous"
 
 +++
 # **Dr. Jessica W. Luther**
-## **Investigative Journalist**, **Author**,
+
+## **Investigative Journalist**, **Author**
+
 ## **Sports Historian**, and **Podcaster**
