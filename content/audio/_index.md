@@ -38,7 +38,7 @@ title: "Audio"
   <img class="audio-img" src="/img/gallery/spinsters.jpg" alt="Spinsters">
   <div class="audio-info">
     <h3>Spinsters</h3>
-    <p>On this episode of the podcast Spinsters, Jessica served as a guest host. Looking at the NBA, its teams, media members, and fans, she interrogates how we should respond when a player we cheer for commits harm. Content note: This episode contains conversations about sexual assault and domestic violence.</p>
+    <p>On this episode of the podcast Spinsters, Jessica served as a guest host. Focusing on the NBA, its teams, media members, and fans, she interrogates how we should respond when a player we cheer for commits harm. Content note: This episode contains conversations about sexual assault and domestic violence.</p>
     <div class="listen-links">
       <span>LISTEN ON:</span>
       <a href="https://podcasts.apple.com/us/podcast/living-in-the-gray-with-jessica-luther-the-stories/id1549716001?i=1000537592998">Apple</a><span class="sep">|</span>
