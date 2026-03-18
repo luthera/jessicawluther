@@ -48,6 +48,17 @@ title: "Writing"
 <div class="essays-grid">
 
 <div class="essay-card">
+    <a href="https://www.texasmonthly.com/arts-entertainment/texas-womens-basketball-march-madness-remembering-1986/">
+      <img src="/img/gallery/texasmonthly-ut-womens-bball.jpg" alt="Pit Mastery in a Trailer Behind the Bar">
+    </a>
+    <h4><a href="https://www.texasmonthly.com/arts-entertainment/texas-womens-basketball-march-madness-remembering-1986/">UT Women’s Basketball Could Win March Madness. It Wouldn’t Be the First Time.</a></h4>
+    <div class="meta">Texas Monthly, 2026</div>
+    <div class="listen-links">
+      <a href="/pdf/Luther--UT_Womens_Basketball-Texas_Monthly.pdf">PDF</a>
+    </div>
+  </div>
+
+<div class="essay-card">
     <a href="https://essesmag.substack.com/p/pit-mastery-in-a-trailer-behind-the">
       <img src="/img/gallery/esses-mag-bbq.jpg" alt="Pit Mastery in a Trailer Behind the Bar">
     </a>
