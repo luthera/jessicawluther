@@ -48,6 +48,17 @@ title: "Writing"
 <div class="essays-grid">
 
 <div class="essay-card">
+    <a href="https://www.texasobserver.org/trans-athletes-inclusion-sports-culture/">
+      <img src="/img/gallery/texas-observer-letthemplay.jpg" alt="Let Them Play">
+    </a>
+    <h4><a href="https://www.texasobserver.org/trans-athletes-inclusion-sports-culture/">Let Them Play</a></h4>
+    <div class="meta">Texas Observer, 2026</div>
+    <div class="listen-links">
+      <a href="/pdf/Luther--Let_Them_Play-TexasObserver.pdf">PDF</a>
+    </div>
+  </div>
+
+<div class="essay-card">
     <a href="https://www.texasmonthly.com/arts-entertainment/texas-womens-basketball-march-madness-remembering-1986/">
       <img src="/img/gallery/texasmonthly-ut-womens-bball.jpg" alt="Pit Mastery in a Trailer Behind the Bar">
     </a>
