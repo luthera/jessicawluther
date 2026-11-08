@@ -222,7 +222,18 @@ title: "Writing"
       <a href="/pdf/Luther--A_Team_of_Their_Own-BleacherReport.pdf">PDF</a>
     </div>
   </div>
-  
+
+<div class="essay-card">
+    <a href="https://www.sbnation.com/2017/4/3/15138522/quinnipiac-rugby-title-ix">
+      <img src="/img/gallery/sbnation-titlefight.jpg" alt="Title Fight">
+    </a>
+    <h4><a href="https://www.sbnation.com/2017/4/3/15138522/quinnipiac-rugby-title-ix">Title Fight: Quinnipiac has conquered women’s rugby despite its own administration</a></h4>
+    <div class="meta">SB Nation, 2017</div>
+    <div class="listen-links">
+      <a href="/pdf/Luther_and_NortmanNatham--Title_Fight-SBNation.pdf">PDF</a>
+    </div>
+  </div>
+
 <div class="essay-card">
     <a href="https://www.buzzfeednews.com/article/scatx/some-days-the-bomb-goes-off">
       <img src="/img/gallery/buzzfeed-ballerina.jpg" alt="The Ballerina Who Accused Her Instructor Of Sexual Assault">
