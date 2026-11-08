@@ -51,7 +51,7 @@ title: "Writing"
     <a href="https://www.texasobserver.org/trans-athletes-inclusion-sports-culture/">
       <img src="/img/gallery/texas-observer-letthemplay.jpg" alt="Let Them Play">
     </a>
-    <h4><a href="https://www.texasobserver.org/trans-athletes-inclusion-sports-culture/">Let Them Play</a></h4>
+    <h4><a href="https://www.texasobserver.org/trans-athletes-inclusion-sports-culture/">Let Them Play: Three recent books make the case that welcoming trans athletes can help improve sports culture for all.</a></h4>
     <div class="meta">Texas Observer, 2026</div>
     <div class="listen-links">
       <a href="/pdf/Luther--Let_Them_Play-TexasObserver.pdf">PDF</a>
